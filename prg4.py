@@ -1,3 +1,5 @@
+"""Design and implement a complex object like a House using a step-by-step Builder 
+pattern, allowing different representations of the house (wooden, brick, etc.). """
 class House:
     def __init__(self):
         self.address = None

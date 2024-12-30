@@ -1,5 +1,6 @@
+"""Design and Implement a Proxy pattern to control access to an object (e.g., a protected 
+resource or remote service). """
 from abc import ABC, abstractmethod
-
 
 class ProtectedResource(ABC):
     @abstractmethod

@@ -1,3 +1,4 @@
+"""Design and Implement a Façade pattern for home theatre system. """
 from abc import ABC, abstractmethod
 
 class Amplifier:

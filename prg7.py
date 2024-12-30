@@ -1,5 +1,6 @@
+"""Design and Implement an Observer pattern for a news agency to notify subscribers 
+of updates. """
 from abc import ABC, abstractmethod
-
 
 class NewsAgency:
     def __init__(self):

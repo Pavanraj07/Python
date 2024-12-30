@@ -1,3 +1,6 @@
+"""Design and Implement an AbstractFactory class to create families of related or 
+dependent objects with respect to decathlon store without specifying their concrete 
+classes using Abstract Factory."""
 from abc import ABC, abstractmethod
 
 # Abstract Product classes

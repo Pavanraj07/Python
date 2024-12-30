@@ -1,3 +1,6 @@
+"""Design and Implement weather monitoring system that notifies multiple display 
+devices whenever the weather conditions change that follows the Observer Design 
+Pattern. """
 from abc import ABC, abstractmethod
 
 class WeatherStation:

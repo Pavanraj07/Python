@@ -1,3 +1,4 @@
+"""Design and implement an Adapter Pattern for a Music System. """
 class MusicPlayer:
     def play(self):
         pass

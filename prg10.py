@@ -1,3 +1,5 @@
+"""Design and Implement a Mediator pattern to manage communication between a set 
+of objects (e.g., chat room with multiple participants)."""
 from abc import ABC, abstractmethod
 
 class ChatRoom:

@@ -1,3 +1,5 @@
+"""Design and Implement to Extend a Coffee object with dynamic features (e.g., milk, 
+sugar, whipped cream) using Decorators. """
 class coffee:
     def cost(self):
         return 5.0
