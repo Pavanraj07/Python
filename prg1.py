@@ -1,3 +1,6 @@
+"""Design and implement ShapeFactory class that generates different types of Shape 
+objects (Circle, Square, Rectangle) based on input parameters using Factory Design 
+Pattern."""
 from abc import ABC, abstractmethod
 
 class Shape(ABC):
